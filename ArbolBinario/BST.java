@@ -28,7 +28,7 @@ public class BST {
             nodos_terminales(x.hijoDerecho);
         }
     }
-
+    
     // Altura del arbol
     public int altura(Nodo x) {
         if (x != null)
